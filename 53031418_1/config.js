@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":5,"title":"2017-4361.pdf","author":"GREGORIM","fileName":"53031418_1.pdf","bounds":[[909,1286],[909,1286],[1819,1286],[909,1286],[909,1286]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":["1","2","3","4","5"]};
